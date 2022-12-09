@@ -1,0 +1,8 @@
+{
+  "PublishedFileId": "0",
+  "ModName": "{{cookiecutter.mod_name}}",
+  "Author": "{{cookiecutter.author}}",
+  "Url": "https://steamcommunity.com/id/{{cookiecutter.author}}/myworkshopfiles/?appid=294100",
+  "TargetVersion": "1.0.6",
+  "Description": "{{cookiecutter.in_game_description}}"
+}
